@@ -1,0 +1,23 @@
+Tu bêdziemy siê informowaæ, które przypadki u¿ycia zosta³y zaimplementowane/s¹ w trakcie implementacji i status ich prac. Pamiêtajcie, ¿e po ka¿dej zmianie robimy check in, przed ka¿d¹ zmian¹ robimy check out. To pozwoli oszczedziæ wasz czas, który by³by przeznaczany na dochodzenie dlaczego akurat w tym miejscu jest konflikt. Proponuje rónie¿ aby ka¿dy z was utworzy³ sobie swój branch i dopiero po zaimplementowaniu funkcjonalnoœci w 100% zrobimy merga do brancha master. 
+
+Do implementacji:
+Rejestracja u¿ytkownika w systemie		progress: 0%
+Dodanie pasa¿era / Usuniêcie pasa¿era		progress: 0%
+Otwarcie samochodu / Zamkniêcie samochodu	progress: 0%
+Detekcja po³o¿enia				progress: 0%
+Informacje o zdarzeniach			progress: 0%
+Informacje o trasie				progress: 0%
+
+
+[Krzysiek]
+Dodanie kierowcy				progress: 100%
+Rozgrzewanie silnika				progress: 100%
+
+[Damian]
+
+[Mateusz]
+
+[£ukasz]
+
+[Grzegorz]
+
